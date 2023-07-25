@@ -22,3 +22,6 @@
 [submodule "frontend/web-client/html"]
 	path = frontend/web-client/html
 	url = git@gitlab.com:structure-thing/frontend/web-client/html.git
+[submodule "documentation"]
+	path = documentation
+	url = git@gitlab.com:structure-thing/documentation.git
