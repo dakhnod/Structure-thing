@@ -25,3 +25,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = git@gitlab.com:structure-thing/documentation.git
+[submodule "workers/http/events"]
+	path = workers/http/events
+	url = git@gitlab.com:structure-thing/workers/http/events.git
