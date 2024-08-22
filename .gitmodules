@@ -28,3 +28,6 @@
 [submodule "workers/http/events"]
 	path = workers/http/events
 	url = git@gitlab.com:structure-thing/workers/http/events.git
+[submodule "libs/python/nats-json-rpc"]
+	path = libs/python/nats-json-rpc
+	url = git@github.com:dakhnod/nats-json-rpc-py.git
