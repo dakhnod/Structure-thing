@@ -1,33 +1,33 @@
 [submodule "workers/attributes"]
 	path = workers/attributes
-	url = git@gitlab.com:structure-thing/workers/attributes.git
+	url = https://gitlab.com/structure-thing/workers/attributes.git
 [submodule "workers/jsonata"]
 	path = workers/jsonata
-	url = git@gitlab.com:structure-thing/workers/jsonata.git
+	url = https://gitlab.com/structure-thing/workers/jsonata.git
 [submodule "workers/http/nodes"]
 	path = workers/http/nodes
-	url = git@gitlab.com:structure-thing/workers/http/nodes.git
+	url = https://gitlab.com/structure-thing/workers/http/nodes.git
 [submodule "workers/http/auth"]
 	path = workers/http/auth
-	url = git@gitlab.com:structure-thing/workers/http/auth.git
+	url = https://gitlab.com/structure-thing/workers/http/auth.git
 [submodule "workers/mongo/nodes"]
 	path = workers/mongo/nodes
-	url = git@gitlab.com:structure-thing/workers/mongo/nodes.git
+	url = https://gitlab.com/structure-thing/workers/mongo/nodes.git
 [submodule "workers/mongo/users"]
 	path = workers/mongo/users
-	url = git@gitlab.com:structure-thing/workers/mongo/users.git
+	url = https://gitlab.com/structure-thing/workers/mongo/users.git
 [submodule "docker"]
 	path = docker
-	url = git@gitlab.com:structure-thing/docker.git
+	url = https://gitlab.com/structure-thing/docker.git
 [submodule "frontend/web-client/html"]
 	path = frontend/web-client/html
-	url = git@gitlab.com:structure-thing/frontend/web-client/html.git
+	url = https://gitlab.com/structure-thing/frontend/web-client/html.git
 [submodule "documentation"]
 	path = documentation
-	url = git@gitlab.com:structure-thing/documentation.git
+	url = https://gitlab.com/structure-thing/documentation.git
 [submodule "workers/http/events"]
 	path = workers/http/events
-	url = git@gitlab.com:structure-thing/workers/http/events.git
+	url = https://gitlab.com/structure-thing/workers/http/events.git
 [submodule "libs/python/nats-json-rpc"]
 	path = libs/python/nats-json-rpc
-	url = git@github.com:dakhnod/nats-json-rpc-py.git
+	url = https://github.com/dakhnod/nats-json-rpc-py.git
